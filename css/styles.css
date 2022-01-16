@@ -63,8 +63,33 @@ a:hover{
 	background:-moz-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
 	background: linear-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
 	color: #FFF;
+    min-height: calc(100vh - 4.6875em);
 }
 .espacio-row {
 	padding-top: 2em;
 	padding-bottom: 2em;
+}
+
+/*******************************************************************/
+/* Estilos de Contacto
+/*******************************************************************/
+#contacto {
+	background:-webkit-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
+	background:-moz-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
+	background: linear-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
+	color: #FFF;
+    min-height: calc(100vh - 4.6875em);
+}
+
+.footerCard {
+    background: black;
+    padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+.title{
+    color:whitesmoke;
+    font-size: 3em;
+}
+.bodyCard{
+    background: rgb(189, 255, 233);
 }
