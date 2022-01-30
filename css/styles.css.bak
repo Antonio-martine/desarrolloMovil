@@ -108,7 +108,7 @@ video{
 	background:-webkit-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
 	background:-moz-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
 	background: linear-linear-gradient(90deg, #6859EA 10%, #6ACBE0 90%);
-	color: #FFF;
+	color: FFF;
     min-height: calc(100vh - 4.6875em);
 }
 
